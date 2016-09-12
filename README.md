@@ -1,2 +1,3 @@
 # Titanic-Survival-Data
-Titanic Survival Analysis
+
+Using Python's NumPy, Python, Matplotlib, and various other libraries to visualize relationships of different attributes of a titanic dataset
