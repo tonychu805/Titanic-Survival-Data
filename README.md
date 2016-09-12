@@ -4,7 +4,7 @@ Conducted analysis on IPython Notebook using Python's NumPy, Python, Matplotlib,
 
 How to run:
 
-Anaconda
+# Anaconda
 The file runs on Jupyter Notebook, so I recommend using Anaconda (Download link: https://www.continuum.io/downloads) as it installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
 
 1. Download Anaconda
@@ -14,7 +14,7 @@ The file runs on Jupyter Notebook, so I recommend using Anaconda (Download link:
     conda update conda
     conda update anaconda
 
-IPython Notebook
+# IPython Notebook
 IPython notebooks allows you to combine code, plots, output, and descriptions in one easily readable document.
 
 1. Download the ipython notebook file: Tony_Chu_Titanic_Survival.ipynb.
